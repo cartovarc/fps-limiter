@@ -1,6 +1,8 @@
 .. image:: https://img.shields.io/pypi/v/fps-limiter.svg
         :target: https://pypi.python.org/pypi/fps-limiter
 
+.. image:: https://pepy.tech/badge/fps-limiter/month
+        :target: https://pepy.tech/project/fps-limiter
 
 fps-limiter
 ===========
