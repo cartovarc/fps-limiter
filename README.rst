@@ -1,3 +1,7 @@
+.. image:: https://img.shields.io/pypi/v/fps-limiter.svg
+        :target: https://pypi.python.org/pypi/fps-limiter
+
+
 fps-limiter
 ===========
 
